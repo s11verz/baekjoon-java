@@ -1,4 +1,4 @@
-package sort;
+package day02_sort;
 
 import java.util.Arrays;
 import java.util.Scanner;
