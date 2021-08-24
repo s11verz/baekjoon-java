@@ -17,6 +17,8 @@ public static void main(String[] args) {
 		}
 	}
 	
+	sc.close();
+	
 	Arrays.sort(arr,(num1,num2)->{
 		
 		if(num1[1]==num2[1])
